@@ -1,4 +1,4 @@
-PracticasMejorandola
+Ejemplo Basico de Node.JS
 ====================
 
-Espacio para unificar lo aprendido con los cursos de Mejorandola
+Desarrollo en base a www.nodebeginner.org/index-es.html
